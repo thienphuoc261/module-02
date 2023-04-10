@@ -11,11 +11,10 @@ public class AddElementToArray {
         int addElement = sc.nextInt();
         System.out.println("Nhập vị trí muốn thêm phần tử");
         int index = sc.nextInt();
-        boolean check = false;
 
         if(index >= 0 && index < arr.length) {
-            for (int i = arr.length - 2; i >= index; i--) {
-                arr[i] = arr[i + 1];
+            for (int i = arr.length - 1; i >= index; i--) {
+                arr[i] = arr[i - 1];
             }
         } else {
             System.out.println("Không có vị trí này trong mảng!");
