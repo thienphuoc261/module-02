@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faf20ca4-477c-45c9-b7f0-1d07c7b10283" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student/TestStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/accessModifier/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/staticMethod/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/staticMethod/TestStaticMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/staticProperty/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/staticProperty/TestStaticProperty.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,19 +30,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/ADMIN/Desktop/Codegym/module-02-java/lesson-04-class-and-object-in-java/untitled1/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ADMIN/Desktop/Codegym/module-02-java/lesson-04-class-and-object-in-java/untitled1/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.TestCircle">
     <configuration name="TestCircle" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestCircle" />
@@ -106,6 +94,7 @@
       <updated>1681194303161</updated>
       <workItem from="1681194304124" duration="27000" />
       <workItem from="1681194342461" duration="2482000" />
+      <workItem from="1681196967959" duration="624000" />
     </task>
     <servers />
   </component>
