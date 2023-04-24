@@ -24,7 +24,7 @@ public class ArrayExample {
         System.out.println("\nVui long nhap chi so cua mot phan tu bat ky: ");
         int x = sc.nextInt();
         try{
-            System.out.println("Giá trị của phần tử có chỉ số 5 " + x + " là " + arr[x]);
+            System.out.println("Giá trị của phần tử có chỉ số " + x + " là " + arr[x]);
         } catch (IndexOutOfBoundsException e){
             System.err.println("Chi so vuot qua gioi han cua mang");
         }
